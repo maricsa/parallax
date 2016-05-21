@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+#prlx {
+	height: 1500px;
+	background: url(http://www.planwallpaper.com/static/images/1968081.jpg);
+}
+
+#layer2 {
+	padding: 300px 0;
+	background: url(http://static.vecteezy.com/system/resources/previews/000/093/806/original/yellow-stars-background-vector.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	transition: all 0.2s ease;
+}
+
+#prlx h1 {
+	text-align: center;
+	font-size: 70px;
+	font-family: Arial;
+}
